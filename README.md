@@ -1,6 +1,6 @@
-## 👋 Hi there, welcome to Emoje Technologies Limited
+## Emoje Technologies Limited
 
-An IT system integration, professional service and software development company in Uganda that works with enterprise systems and companies. As a privately owned company, we provide IT consultancy, software design and development as well as professional services and hardware deployment and maintenance to the following verticals; Government (Local and Central), Non-government, Financial Services (insurance, banking and clearing house), Transport and Communication, Energy and Utilities, Health Care, Agriculture, Education and Sports.
+Emoje Technologies Limited, established in 2023, is a premier IT system integration, professional services, and software development company based in Lira City, Northern Uganda. We cater to enterprise systems and companies across various sectors, offering a broad range of IT solutions and services. As a privately owned entity, we excel in IT consultancy, software design and development, and hardware deployment and maintenance.
 
-Feel free to visit our website **[emojetechnologieslimited.com](https://emojetechnologieslimited.com)** to find out more about us and explore the services we offer or reach us through **contact@emojetechnologieslimited.com**.
+Visit **[emojetechnologieslimited.com](https://emojetechnologieslimited.com)** for more information.
 
